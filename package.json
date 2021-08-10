@@ -1,0 +1,11 @@
+{
+  "name": "express-lesson",
+  "version": "1.0.0",
+  "description": "\"Our first contact with ExpressJS\"",
+  "main": "index.js",
+  "author": "Marcle Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
